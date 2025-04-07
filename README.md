@@ -9,6 +9,8 @@
 - [Maximum Likelihood and Maximum a Posteriori Estimation](https://colab.research.google.com/drive/1WCqQgi7JxOb9KNrGdIDSG8UMkz1weR7K?usp=sharing)
 - [Naive Bayes](https://colab.research.google.com/drive/1ikzjQFYboJ0VTCMDI7WTnIZMRhQWOW_H#scrollTo=uIEDMd7kH8Be)
 - [Logistic Regression](https://colab.research.google.com/drive/1ZkfBUkt2IzdmS2AJ7pJbm1g19zZIsOFf)
+- [Modele Liniare Intro](https://scikit-learn.org/stable/modules/linear_model.html)
+
 
 <!-- more tba -->
 
