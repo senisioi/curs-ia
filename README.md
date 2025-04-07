@@ -1,16 +1,23 @@
-# curs-ia
-
-Bazat pe [cursul lui Peter Bloem](https://mlvu.github.io/evaluation/)
+# Învățare Automată
 
 
 - [Introducere / AI contemporan](https://docs.google.com/presentation/d/1xIRDSraczQEU6m5suj7JzAOcVb6MNQyMaMomuMZAdkw/edit?usp=sharing)
-- 
+- [Preliminarii tehnice](https://mlvu.github.io/preliminaries/), distribuții [discrete](https://michael-franke.github.io/intro-data-analysis/selected-discrete-distributions-of-random-variables.html), ceva despre [distribuția normală](https://michael-franke.github.io/intro-data-analysis/selected-continuous-distributions-of-random-variables.html)
+- [Regresia Liniară](https://colab.research.google.com/drive/1Ai2ZPWTksZZPW3PDf4MuXacBaNNZa5ow?usp=sharing)
+- [Optimizare](https://colab.research.google.com/drive/1gDSLI2Hia_XmYGb3UckHj9gAcfCNepEO?usp=sharing)
+- [Metrici](https://colab.research.google.com/drive/1s9qZwpAU-evRSLbpuIISR8J0J0h92FwO?usp=sharing)
+- [Maximum Likelihood and Maximum a Posteriori Estimation](https://colab.research.google.com/drive/1WCqQgi7JxOb9KNrGdIDSG8UMkz1weR7K?usp=sharing)
+- [Naive Bayes](https://colab.research.google.com/drive/1ikzjQFYboJ0VTCMDI7WTnIZMRhQWOW_H#scrollTo=uIEDMd7kH8Be)
+- [Logistic Regression](https://colab.research.google.com/drive/1ZkfBUkt2IzdmS2AJ7pJbm1g19zZIsOFf)
+
+<!-- more tba -->
 
 
 ## Bibliografie
 - [Mystery AI Hype Theater 3000](https://www.dair-institute.org/maiht3k/)
-- cursul de Peter Bloem de la Vrije Universiteit Amsterdam https://mlvu.github.io/
-- cartea Mathematics for Machine Learning https://mml-book.github.io/ 
-- cartea [Statistical Rethinking](https://xcelab.net/rm/) de Richard McElreath, are si videos pe youtube și [cod in R aici](https://github.com/rmcelreath/stat_rethinking_2024)
+- cursul lui Peter Bloem de la Vrije Universiteit Amsterdam https://mlvu.github.io/
+- Mathematics for Machine Learning https://mml-book.github.io/ 
+- [Statistical Rethinking](https://xcelab.net/rm/) de Richard McElreath, are si videos pe youtube și [cod in R aici](https://github.com/rmcelreath/stat_rethinking_2024)
 
-- alte materiale pe care le anunț pe teams după fiecare curs, de ex. distribuțiile discrete de azi sunt prezentate aici https://michael-franke.github.io/intro-data-analysis/selected-discrete-distributions-of-random-variables.html la fel și ceva despre distribuția normală tot aici
+### Blogs, explicații extra
+- 
