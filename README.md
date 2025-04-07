@@ -18,6 +18,4 @@
 - cursul lui Peter Bloem de la Vrije Universiteit Amsterdam https://mlvu.github.io/
 - Mathematics for Machine Learning https://mml-book.github.io/ 
 - [Statistical Rethinking](https://xcelab.net/rm/) de Richard McElreath, are si videos pe youtube și [cod in R aici](https://github.com/rmcelreath/stat_rethinking_2024)
-
-### Blogs, explicații extra
-- 
+- [Cursul de Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html) a lui Sebastian Raschka
