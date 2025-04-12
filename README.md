@@ -10,6 +10,7 @@
 - [Naive Bayes](https://colab.research.google.com/drive/1ikzjQFYboJ0VTCMDI7WTnIZMRhQWOW_H#scrollTo=uIEDMd7kH8Be), [sklearn](https://scikit-learn.org/stable/modules/naive_bayes.html)
 - [Logistic Regression](https://colab.research.google.com/drive/1ZkfBUkt2IzdmS2AJ7pJbm1g19zZIsOFf)
 - [Modele Liniare Intro](https://scikit-learn.org/stable/modules/linear_model.html)
+- [Curse of Dimensionality & the Manifold](https://colab.research.google.com/drive/1vaKq3qRr_aEVlphVzyVfwJ1GyUeUUPQ0?usp=sharing)
 
 
 <!-- more tba -->
